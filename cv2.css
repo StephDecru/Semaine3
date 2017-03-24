@@ -1,0 +1,61 @@
+/* css config cv2_steph */
+* {
+  margin: 10px;
+  font-family: Times New Roman;
+}
+hr {
+  height: 1px;
+  background-color: black;
+}
+body {
+  background-color: #D3D3D3;
+}
+
+#left {
+   float: left;
+   text-align: center;
+}
+
+#right {
+  float: right;
+}
+
+h1 {
+  padding-top: 130px;
+}
+h2 {
+  text-align-last: center;
+}
+
+#centrer {
+  margin-top: 200px;
+  padding-top: 120px;
+  text-align: center;
+}
+
+#left2 {
+  float: left;
+  text-align: center;
+}
+
+#right2 {
+  float: right;
+  text-align: center;
+}
+
+#left3 {
+  float: left;
+}
+
+#right3 {
+  float: right;
+}
+
+footer {
+  margin-top: 330px;
+}
+
+img {
+width:130px;
+height:130px;
+}
