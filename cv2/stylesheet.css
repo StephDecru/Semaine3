@@ -11,6 +11,10 @@ body {
   background-color: #D3D3D3;
 }
 
+ul {
+  list-style-type: none;
+}
+
 #left {
    float: left;
    text-align: center;
@@ -52,7 +56,7 @@ h2 {
   float: right;
 }
 
-footer {
+aside {
   margin-top: 330px;
 }
 
